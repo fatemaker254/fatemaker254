@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soham Das</h1>
-<h3 align="center">A passionate Web-developer and try to solve real life problems</h3>
+<h3 align="center">A passionate Web-developer who tries to solve real life problems</h3>
 
 <img align="right" alt="coding" width="500" src="https://imgs.search.brave.com/Pol2HUhKANBiZmAKWkFBTajhrx1Nj7p8kiLaKZdJFic/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwMTk4/NjQvc2NyZWVuc2hv/dHMvMzA3OTA5OS9j/b2RlbG9vcC5naWY.gif"> 
 
