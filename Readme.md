@@ -6,11 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatemaker254&label=Profile%20views&color=0e75b6&style=flat" alt="fatemaker254" /> </p>
 
-- 🌱 I’m currently learning **ML **
+- 🌱 I’m currently working on **ML & AI**
 
-- 📫 How to reach me **dassoham254@gmail.com**
-
-- ⚡ Fun fact **indeed funny**
+- 📫 How to reach me **dassohamcs2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
